@@ -1,8 +1,7 @@
 # Enterprise Management System with Real-time Notifications and WebSocket Chat
 
 ## Project Overview
-Describe the project briefly, emphasizing its role-based functionalities and real-time communication features.
-
+The Enterprise Management System is a comprehensive application designed to facilitate efficient management of organizational tasks and resources. Built with a focus on role-based access and real-time communication, the system caters to three main roles: Gestionnaire, Manager, and Collaborateur.
 ## Project Structure
 
 ### ROLE_GESTIONNAIRE
