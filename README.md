@@ -54,4 +54,5 @@ Include instructions and SQL scripts for setting up the database.
 ## Contact Information
 For support and inquiries, contact [email@example.com](mailto:email@example.com).
 
-- :no_entry_sign
+- :no_entry_sign: Affichage page bloquée/erreur login.
+
