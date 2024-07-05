@@ -6,47 +6,47 @@ Describe the project briefly, emphasizing its role-based functionalities and rea
 ## Project Structure
 - **ROLE_GESTIONNAIRE**
   - **Badge Management**
-    - List badges <!-- ![List icon](https://via.placeholder.com/20) --> with actions <!-- ![Actions icon](https://via.placeholder.com/20) --> (accept, reject).
-    - Implement actions via email API <!-- ![Email icon](https://via.placeholder.com/20) -->
+    - List badges <!-- :list_icon: --> with actions <!-- :actions_icon: --> (accept, reject).
+    - Implement actions via email API <!-- :email_icon: -->
 
   - **User Management**
-    - Manage user roles and statuses <!-- ![Roles icon](https://via.placeholder.com/20) -->
-    - Implement actions via email API <!-- ![Email icon](https://via.placeholder.com/20) -->
+    - Manage user roles and statuses <!-- :roles_icon: -->
+    - Implement actions via email API <!-- :email_icon: -->
 
   - **Attestations**
-    - Create, upload <!-- ![Upload icon](https://via.placeholder.com/20) --> or generate PDF <!-- ![PDF icon](https://via.placeholder.com/20) --> attestations.
-    - Manage attestation requests with actions <!-- ![Actions icon](https://via.placeholder.com/20) -->
+    - Create, upload <!-- :upload_icon: --> or generate PDF <!-- :pdf_icon: --> attestations.
+    - Manage attestation requests with actions <!-- :actions_icon: -->
 
   - **Chat with Collaborators and Managers**
-    - Real-time chat functionality using WebSockets <!-- ![WebSocket icon](https://via.placeholder.com/20) -->
+    - Real-time chat functionality using WebSockets <!-- :websocket_icon: -->
 
 - **ROLE_MANAGER**
   - **Conger Maldier List**
-    - List sick leave requests <!-- ![List icon](https://via.placeholder.com/20) --> with details.
-    - Manage leave requests with actions <!-- ![Actions icon](https://via.placeholder.com/20) -->
+    - List sick leave requests <!-- :list_icon: --> with details.
+    - Manage leave requests with actions <!-- :actions_icon: -->
 
   - **Donner Details**
-    - Provide detailed information about leave duration <!-- ![Details icon](https://via.placeholder.com/20) -->
-    - Manage questions about leave duration <!-- ![Questions icon](https://via.placeholder.com/20) -->
+    - Provide detailed information about leave duration <!-- :details_icon: -->
+    - Manage questions about leave duration <!-- :questions_icon: -->
 
 - **ROLE_COLLABORATEUR**
   - **Demande Badge**
-    - Submit badge requests <!-- ![Request icon](https://via.placeholder.com/20) -->
-    - Manage badge requests with actions <!-- ![Actions icon](https://via.placeholder.com/20) -->
+    - Submit badge requests <!-- :request_icon: -->
+    - Manage badge requests with actions <!-- :actions_icon: -->
 
   - **Total Leave Days (Solde)**
-    - View remaining leave days <!-- ![Calendar icon](https://via.placeholder.com/20) -->
-    - Select attestations for leave days <!-- ![Select icon](https://via.placeholder.com/20) -->
+    - View remaining leave days <!-- :calendar_icon: -->
+    - Select attestations for leave days <!-- :select_icon: -->
 
 ## Additional Features
 - **Real-time Notifications**
-  - Implement notifications using WebSockets <!-- ![WebSocket icon](https://via.placeholder.com/20) -->
+  - Implement notifications using WebSockets <!-- :websocket_icon: -->
 
 - **WebSocket Chat**
-  - Enable real-time chat functionality <!-- ![Chat icon](https://via.placeholder.com/20) -->
+  - Enable real-time chat functionality <!-- :chat_icon: -->
 
 - **API Email Integration**
-  - Integrate API for email notifications <!-- ![Email icon](https://via.placeholder.com/20) -->
+  - Integrate API for email notifications <!-- :email_icon: -->
 
 ## SQL Database Setup
 Include instructions and SQL scripts for setting up the database.
