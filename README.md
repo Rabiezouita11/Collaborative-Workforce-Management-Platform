@@ -62,4 +62,4 @@ Describe the project briefly, emphasizing its role-based functionalities and rea
 Include instructions and SQL scripts for setting up the database.
 
 ## Contact Information
-For support and inquiries, contact [rabiezouita82@gmail.com](rabiezouita82@gmail.com).
+For support and inquiries, contact [rabiezouita82@gmail.com](mailto:rabiezouita82@gmail.com).
